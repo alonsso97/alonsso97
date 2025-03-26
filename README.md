@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+
+My Name is Alonso.
+I love cybersecurity and I am currently working as an Analyst in a Security Operations Center. 
+The published repositories were created while I was studying system administration, and during that time, I began learning the Bash scripting language.
+Currently, I am learning and improving my skills in Python and PowerShell.
+
 <!--
 **alonsso97/alonsso97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
