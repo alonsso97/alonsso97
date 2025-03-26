@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I love cybersecurity and I am currently working as an Analyst in a Security Operations Center. 
+I love cybersecurity and I am currently working as Analyst in a Security Operations Center. 
 
 The published repositories were created while I was studying system administration, and during that time, I began learning the Bash scripting language.
 
